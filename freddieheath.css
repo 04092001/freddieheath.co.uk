@@ -1,4 +1,26 @@
+body {
+    background-color: #617477;
+    margin: auto
+}
 
-.body {
-    .background-color: red;
+#body-content {
+    background-color: #1d393c;
+    border-radius: 10px;
+    color: #bbc4c5;
+    margin: 20px;
+    padding: 10px;
+}
+
+#title-bar {
+    background-color: #1d393c;
+    border-radius: 10px;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    margin: 20px;
+}
+
+#title-text {
+    color: #bbc4c5;
+    font-size: 4em;
 }
