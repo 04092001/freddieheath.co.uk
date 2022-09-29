@@ -1,26 +1,29 @@
-body {
-    background-color: #617477;
-    margin: auto
-}
 
-#body-content {
-    background-color: #1d393c;
-    border-radius: 10px;
-    color: #bbc4c5;
-    margin: 20px;
-    padding: 10px;
+body {
+    background-color: #394d6d;
 }
 
 #title-bar {
-    background-color: #1d393c;
+    background-color: #4f617d;
+    border-color: #7b889e;
     border-radius: 10px;
+    border-style: solid;
     display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     height: auto;
     justify-content: center;
     margin: 20px;
 }
 
 #title-text {
-    color: #bbc4c5;
+    color: #7b889e;
     font-size: 4em;
 }
+
+#title-bar:hover {
+    background-color: #394d6d;
+    color: #7b889e;
+
+
+}
+
