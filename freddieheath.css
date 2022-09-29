@@ -9,13 +9,15 @@ li a {
     border-radius: 10px;
     color: #7b889e;
     display: block;
-    font-size: 30px;
-    margin: 4px 8px;
+    font-size: 2em;
+    margin: 8px 8px;
     padding: 15px 32px;
+    text-decoration: none;
     width: auto;
 }
 
 li a:hover {
+    background-color: ;
 
 }
 
@@ -26,6 +28,18 @@ li a:hover {
 #split {
     display: flex;
     margin: auto;
+    width: auto;
+}
+
+.subtitle {
+    background-color:#394d6d;
+    border-radius: 10px;
+    color: #7b889e;
+    display: block;
+    font-size: 2em;
+    margin: 8px 8px;
+    padding: 15px 32px;
+    text-decoration: none;
     width: auto;
 }
 
@@ -42,18 +56,18 @@ li a:hover {
 
 #title-text {
     color: #7b889e;
-    font-size: 4em;
+    font-size: 5em;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-    margin: 0;;
+    margin: 0;
 }
 
 ul p {
     color: #7b889e;
-    display: block;
+    display: flex;
     font-size: 3em;
     text-align: center;
 }
