@@ -7,20 +7,12 @@ function mouseLeave() {
 function intro() {
     document.getElementById("intro").style.display = "block";
     document.getElementById("intro").style.fontSize = "20px";
-    document.getElementById("intro").style.height = "259px";
+    document.getElementById("intro").style.height = "150px";
     document.getElementById("intro").style.lineHeight = "35px";
     document.getElementById("intro").style.margin = "10px";
     document.getElementById("title-text").style.display = "none";
 }
 
-function mtpIntro() {
-    document.getElementById("mtp-intro").style.display = "block";
-    document.getElementById("mtp-intro").style.fontSize = "20px";
-    document.getElementById("mtp-intro").style.height = "259px";
-    document.getElementById("mtp-intro").style.lineHeight = "35px";
-    document.getElementById("mtp-intro").style.margin = "10px";
-    document.getElementById("title-text").style.display = "none";
-}
 
 
 /* 
