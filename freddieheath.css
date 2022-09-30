@@ -8,6 +8,14 @@ body {
     margin: 10px;
 }
 
+.body {
+    background-color: #4f617d;
+    border-color: #7b889e;
+    border-radius: 10px;
+    border-style: solid;
+    height: auto;
+}
+
 li a {
     border-radius: 10px;
     color: #7b889e;

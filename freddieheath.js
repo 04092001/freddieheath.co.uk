@@ -8,10 +8,6 @@ function myFunction() {
 }
 
 
-function aboutMe() {
-    document.getElementById("about-me").style.display = "none";
-    document.getElementById("title-text").style.display = "block";
-}
 
 
 /* 
