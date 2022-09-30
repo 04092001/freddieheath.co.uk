@@ -1,7 +1,5 @@
 
-#about-me {
-    font-size: 1em;
-}
+
 
 body {
     background-color: #394d6d;
@@ -13,7 +11,11 @@ body {
     border-color: #7b889e;
     border-radius: 10px;
     border-style: solid;
-    height: auto;
+    height: 570px;
+}
+
+#intro {
+    font-size: 1em;
 }
 
 li a {
@@ -111,5 +113,6 @@ ul p {
     margin-left: 10px;
     width: 50%;
 }
+
 
 
