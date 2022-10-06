@@ -1,5 +1,23 @@
 
+a {
+    text-decoration: none;
+}
 
+a:visited { 
+    text-decoration: none; 
+}
+
+a:hover { 
+    text-decoration: none; 
+}
+
+a:focus { 
+    text-decoration: none; 
+}
+
+a:hover, a:active { 
+    text-decoration: none; 
+}
 
 body {
     background-color: #394d6d;
@@ -73,6 +91,22 @@ body {
     font-size: 6em;
     margin: auto;
     padding: 40px;
+}
+
+.intro-hover-links {
+    background-color: #4f617d;
+    border-color: #7b889e;
+    border-radius: 10px;
+    border-style: solid;
+    color: #7b889e;
+    text-decoration: none;
+}
+
+
+.intro-hover-links:hover {
+    background-color: #7b889e;
+    color: #27445C;
+    text-decoration: none;
 }
 
 li a {
