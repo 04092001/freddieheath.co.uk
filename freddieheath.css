@@ -194,6 +194,13 @@ ul p {
     text-align: center;
 }
 
+.vc-pdf {
+    display: inline;
+    flex: 1;
+    padding: 0px 10px;
+    width: 50%;
+}
+
 #year-1 {
     background-color: #4f617d;
     border-color: #7b889e;
