@@ -95,6 +95,7 @@ body {
 #intro {
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .intro-hover-links {
